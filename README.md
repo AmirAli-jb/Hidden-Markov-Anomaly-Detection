@@ -6,6 +6,7 @@
 [![Python](https://img.shields.io/badge/Python-3.x-yellow?logo=python)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
 
+
 ## Overview
 
 This project investigates **anomaly detection in sequential data**, comparing a classical **One-Class Support Vector Machine (OC-SVM)** with a sequence-aware **Hidden Markov Anomaly Detection (HMAD)** model.
